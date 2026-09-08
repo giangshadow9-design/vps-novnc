@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://spotlight-dense-vinyl-belongs.trycloudflare.com/vnc.html
+URL       : https://emphasis-wherever-laws-clause.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-08 09:30:36
+Created   : 2026-09-08 14:20:44
 =======================================================
