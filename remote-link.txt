@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://emphasis-wherever-laws-clause.trycloudflare.com/vnc.html
+URL       : https://features-princeton-collar-rubber.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-08 14:20:44
+Created   : 2026-09-08 18:29:07
 =======================================================
