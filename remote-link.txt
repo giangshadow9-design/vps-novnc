@@ -1,9 +1,1 @@
-=======================================================
-noVNC INFO - DucThang x TrueHieu Edition
-=======================================================
-URL       : https://copyright-themes-viruses-passing.trycloudflare.com/vnc.html
-Password  : hieudz
-Host      : trycloudflare
-Protocol  : noVNC over Cloudflared
-Created   : 2026-10-01 17:00:15
-=======================================================
+TUNNEL_FAILED_20261001_235640
